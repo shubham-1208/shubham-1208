@@ -29,8 +29,6 @@ Full Stack Web Developer
 
 <a href="http://www.github.com/shubham-1208"><img src="https://github-readme-stats.vercel.app/api?username=shubham-1208&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=581c87&hide_border=true&show_icons=true" alt="shubham-1208's GitHub stats" /></a>
 
-<a href="http://www.github.com/shubham-1208"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-1208&stroke=14b8a6&background=581c87&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
